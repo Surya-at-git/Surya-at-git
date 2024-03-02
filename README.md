@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Surya
+- 👋 Hi, I’m Surya
 - 👀 I’m interested in art and coding stuff's, sometimes exploring!!
-- 🌱 I’m currently learning DSA(java)
+- 🌱 Currently persuing Master's in Computer Applications
 - 💞️ Seeking the opportunity to connect with coders and make a progress
 - 📫 Reach me at suryagb08@gmail.com
 - 😄 Pronouns: he/him/his
