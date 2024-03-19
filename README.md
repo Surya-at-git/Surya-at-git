@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Surya
-- 👀 I’m interested in art and coding stuff's, sometimes exploring!!
-- 🌱 Currently persuing Master's in Computer Applications
+- 👀 Interested in art and coding stuff's, sometimes exploring!!
+- 🌱 Currently persuing Master's in Computer Applications @MSRIT
 - 💞️ Seeking the opportunity to connect with coders and make a progress
-- 📫 Reach me at suryagb08@gmail.com
+- 📫 Reach me at suryaburde@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: planning to be a competitor for Gennady
 
